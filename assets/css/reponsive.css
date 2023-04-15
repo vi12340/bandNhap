@@ -1,0 +1,32 @@
+
+/* PC */
+@media (min-width: 1024px){
+
+}
+
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px){
+
+}
+
+
+
+/* mobile */
+@media (max-width: 739px){
+    #nav > li{
+        display: block;
+    }
+
+
+    #header .search-btn{
+        display: none;
+    }
+
+
+    
+}
+
+
+
+/* overflow: hiddin (khi doi tuong con vuot qua cha thi se an di */
